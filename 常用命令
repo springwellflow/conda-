@@ -1,1 +1,6 @@
-
+#创建环境
+conda create -n <env_name>
+#创建R环境
+conda create -n <env_name> r-base
+#创建python环境
+conda create -n <env_name> python
